@@ -1,0 +1,15 @@
+/Users/goksu/Projects/HesapMakinesi/HesapMakinesi/obj/Debug/net6.0/HesapMakinesi.csproj.AssemblyReference.cache
+/Users/goksu/Projects/HesapMakinesi/HesapMakinesi/obj/Debug/net6.0/HesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goksu/Projects/HesapMakinesi/HesapMakinesi/obj/Debug/net6.0/HesapMakinesi.AssemblyInfoInputs.cache
+/Users/goksu/Projects/HesapMakinesi/HesapMakinesi/obj/Debug/net6.0/HesapMakinesi.AssemblyInfo.cs
+/Users/goksu/Projects/HesapMakinesi/HesapMakinesi/obj/Debug/net6.0/HesapMakinesi.csproj.CoreCompileInputs.cache
+/Users/goksu/Projects/HesapMakinesi/HesapMakinesi/bin/Debug/net6.0/HesapMakinesi
+/Users/goksu/Projects/HesapMakinesi/HesapMakinesi/bin/Debug/net6.0/HesapMakinesi.deps.json
+/Users/goksu/Projects/HesapMakinesi/HesapMakinesi/bin/Debug/net6.0/HesapMakinesi.runtimeconfig.json
+/Users/goksu/Projects/HesapMakinesi/HesapMakinesi/bin/Debug/net6.0/HesapMakinesi.dll
+/Users/goksu/Projects/HesapMakinesi/HesapMakinesi/bin/Debug/net6.0/HesapMakinesi.pdb
+/Users/goksu/Projects/HesapMakinesi/HesapMakinesi/obj/Debug/net6.0/HesapMakinesi.dll
+/Users/goksu/Projects/HesapMakinesi/HesapMakinesi/obj/Debug/net6.0/refint/HesapMakinesi.dll
+/Users/goksu/Projects/HesapMakinesi/HesapMakinesi/obj/Debug/net6.0/HesapMakinesi.pdb
+/Users/goksu/Projects/HesapMakinesi/HesapMakinesi/obj/Debug/net6.0/HesapMakinesi.genruntimeconfig.cache
+/Users/goksu/Projects/HesapMakinesi/HesapMakinesi/obj/Debug/net6.0/ref/HesapMakinesi.dll
